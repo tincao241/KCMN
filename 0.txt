@@ -4,7 +4,11 @@ zzzzzzzzzzzzzzz
 22222222
 
 
+<<<<<<< HEAD
 master
+=======
+22222B22222
+>>>>>>> BB
 2222
 0
 1
